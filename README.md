@@ -1,2 +1,1 @@
-# rsschool-cv
-CV
+https://megafetcher.github.io/rsschool-cv/cv
