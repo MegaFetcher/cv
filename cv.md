@@ -5,9 +5,9 @@ em {color: limegreen}
 th {color: limegreen}
 </style>
 
-<!-->
+<!--
 [RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
-<-->
+-->
 
 # **MegaFetcher**
 
