@@ -1,4 +1,4 @@
-[RS-SCHOOL-CV](https://megafetcher.github.io/rsschool-cv/)
+[RS-SCHOOL-CV](https://megafetcher.github.io/rsschool-cv/cv)
 
 # **MegaFetcher**
 
