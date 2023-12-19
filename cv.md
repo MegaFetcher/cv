@@ -3,7 +3,7 @@
 # **MegaFetcher**
 
 Email: my_certification_mfsft@outlook.com  
-Languages: Russian/C2, Serbian/B1, English/C1 or German/B2
+Languages: Russian - native, Serbian/B1, English/C1, German/B2
 
 ## Vision
 
