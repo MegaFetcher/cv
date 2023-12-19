@@ -1,6 +1,6 @@
 [RS-SCHOOL-CV](https://megafetcher.github.io/rsschool-cv/)
 
-# **Boris aka MegaFetcher**
+# **MegaFetcher**
 
 Email: my_certification_mfsft@outlook.com via any of Russian /C2, Serbian /B1, English /C1 or German /B2
 
@@ -17,21 +17,39 @@ Email: my_certification_mfsft@outlook.com via any of Russian /C2, Serbian /B1, E
 
 ## Code example
 ```
-function sendRequestsSequentially (requests, index) {
+let counter_1 = 0           // counter of the requests
+var set_1 = new Set()       // set to collect unique values
+var array_1 = new Array()   // array to pass unique values into function
+array_1 = Array.from(set_1)
 
-    if (index < requests.length) {
+function sendRequestsSequentially (array_1, counter_1) {
 
-        pm.sendRequest (requests[index], (err, response) => {
+    if (counter_1 < array_1.length-0) {
+        var stringa_1 = {
+            method:,
+            url:,
+            header:{
+                'Content-Type':,
+                'Authorization:'
+            },
+            body: {
+                mode:,
+                raw: JSON.stringify({'key': array_1[counter_1]})
+            }
+        }
+        pm.sendRequest (stringa_1, (err, response) => {
             
             if (err) {
                 console.error(err)
             }
 
-            console.log("Response received:", response.text())
+            console.log(counter_1 + '. Request parameter: ' + array_1[counter_1].toString())
+            var stringa_2 = JSON.stringify(JSON.parse(response.text()), null, 2)
+            pm.visualizer.set("Response received:", stringa_2)
 
             setTimeout(() => {
-                sendRequestsSequentially(requests, index + 1)
-            }, 2000)
+                sendRequestsSequentially(array_1, counter_1 + 1)
+            }, 5000) // 5 sec
         })
     }
 }
