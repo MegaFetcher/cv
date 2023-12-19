@@ -2,6 +2,7 @@
 pre code { color: limegreen}
 strong {color: salmon}
 em {color: limegreen}
+th {color: limegreen}
 </style>
 
 
