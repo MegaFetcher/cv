@@ -2,7 +2,7 @@
 
 # **Boris aka MegaFetcher**
 
-my_certification_mfsft@outlook.com via any of Russian /C2, Serbian /B1, English /C1 or German /B2
+Email: my_certification_mfsft@outlook.com via any of Russian /C2, Serbian /B1, English /C1 or German /B2
 
 ## Vision
 
