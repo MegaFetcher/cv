@@ -68,7 +68,7 @@ function sendRequestsSequentially (array_1, counter_1) {
 
 ## Education
 1998 - 2000 Oklahoma State University, USA - FIN/MIS - okstate.edu  
-1993 - 1997 Tomsk Polytechnic University, RUSSIAN FEDERATION - Management - tpu.ru  
+1993 - 1997 Tomsk Polytechnic University, RUSSIAN FEDERATION - MGMT - tpu.ru  
 
 ## Educational Programs
 
