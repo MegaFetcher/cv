@@ -3,7 +3,7 @@
 # **MegaFetcher**
 
 Email: my_certification_mfsft@outlook.com  
-Languages: Russian /C2, Serbian /B1, English /C1 or German /B2
+Languages: Russian/C2, Serbian/B1, English/C1 or German/B2
 
 ## Vision
 
@@ -62,7 +62,7 @@ function sendRequestsSequentially (array_1, counter_1) {
 ## Educational Programs
 
 10/2023 - Scope Change Management - Best Practices  
-07/2023 - Azure Fundamentals of Microsoft
+07/2023 - Azure Fundamentals of Microsoft  
 04/2023 - BA Intermediate Mentoring Program    
 07/2018 - Mechanisms of "1S:Enterprise 8" platform  
 08/2012 - Legal Aspects of Corporate Lending  
