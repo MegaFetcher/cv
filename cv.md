@@ -1,12 +1,12 @@
 <style>
-pre code { color: limegreen}
-strong {color: salmon}
+pre code { color: lime}
+strong {color: indigo}
 em {color: limegreen}
 th {color: limegreen}
 </style>
 
 
-[RS-SCHOOL-CV MD](https://megafetcher.github.io/rsschool-cv/cv)
+[RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
 
 # **MegaFetcher**
 
