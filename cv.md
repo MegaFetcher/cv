@@ -1,9 +1,17 @@
-[RS-SCHOOL-CV](https://megafetcher.github.io/rsschool-cv/cv)
+<style>
+pre code { color: limegreen}
+strong {color: salmon}
+em {color: limegreen}
+</style>
+
+
+[RS-SCHOOL-CV MD](https://megafetcher.github.io/rsschool-cv/cv)
 
 # **MegaFetcher**
 
-Email: my_certification_mfsft@outlook.com  
-Languages: Russian - native, Serbian/B1, English/C1, German/B2
+Email: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
+Discord: **megafetcher**  
+Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
 ## Vision
 
@@ -11,11 +19,13 @@ Languages: Russian - native, Serbian/B1, English/C1, German/B2
 
 ## Stack
 
-- VBA, Java, Java-Script, Type-Script, SQL, HTML, CSS, XML/XSD, JSON, YAML, OPEN API, Angular, React.JS, Pascal, Assembler  
-- IntelliJ IDEA, Visual Studio Code, Node.js, NPM, Redis, Apache Cassandra, PostgreSQL, Postman, FIGMA, Jira/Confluence/Bitbacket, Open API, Azure Cloud, Azure DevOps, Lucid Chart
-- Agile: SAFe, Scrum, Kanban
+- _Langiuages/Frameworks_:
+  VBA, Java, Java-Script, Type-Script, SQL, HTML, CSS, XML/XSD, JSON, YAML, OPEN API, Angular, React.JS, Open API, Pascal, Assembler  
+- _Tools_: IntelliJ IDEA, Visual Studio Code, Node.js, NPM, Redis, Apache Cassandra, PostgreSQL, Postman, FIGMA, Jira/Confluence/Bitbacket, Azure Cloud, Azure DevOps, Lucid Chart  
+_Methodologies_: SAFe, Scrum, Kanban
 
 ## Code example
+
 ```
 let counter_1 = 0           // counter of the requests
 var set_1 = new Set()       // set to collect unique values
