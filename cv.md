@@ -32,7 +32,7 @@ Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
 ## Code example
 
-```
+<pre><code>
 let counter_1 = 0           // counter of the requests
 var set_1 = new Set()       // set to collect unique values
 var array_1 = new Array()   // array to pass unique values into function
@@ -69,7 +69,7 @@ function sendRequestsSequentially (array_1, counter_1) {
         })
     }
 }
-```
+</code></pre>
 
 ## Education
 1998 - 2000 Oklahoma State University, USA - FIN/MIS - okstate.edu  
