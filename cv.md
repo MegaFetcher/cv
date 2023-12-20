@@ -22,7 +22,7 @@ blockquote {color: white}
 
 ## Vision
 
-- _developing_ convenient/comfortable app interfaces - web and mobile
+- _Developing_ convenient/comfortable app interfaces - web and mobile
 
 ## Tech. Stack
 
