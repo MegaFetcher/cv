@@ -4,13 +4,14 @@ https://www.w3schools.com/tags/ref_colornames.asp
 -->
 
 <style>
+a {color: deepskyblue}
 strong {color: coral}
 em {color: springgreen}
 pre code {color: forestgreen}
 pre {color: red}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
-div {background-color: #3F3F3F; color: white; padding:20px}
+div {background-color: #3F3F3F; color: white; padding:50px}
 blockquote {color: white}
 </style>
 
