@@ -10,7 +10,7 @@ pre code {color: limegreen}
 code {color: limegreen}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
-div {background-color: #3F3F3F; padding:20px}
+div {background-color: #3F3F3F; color: white; padding:20px}
 </style>
 
 # **MegaFetcher**
@@ -32,7 +32,7 @@ Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
 ## Code example
 
-```javascript
+``` //javascript
 let counter_1 = 0           // counter of the requests
 var set_1 = new Set()       // set to collect unique values
 var array_1 = new Array()   // array to pass unique values into function
