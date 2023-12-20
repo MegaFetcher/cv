@@ -1,1 +1,1 @@
-[RS-SCHOOL-CV](https://megafetcher.github.io/rsschool-cv/cv)
+[go to CV doc](https://megafetcher.github.io/rsschool-cv/cv)
