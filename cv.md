@@ -86,14 +86,15 @@ function sendRequestsSequentially (array_1, counter_1) {
 ## Hobbies
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
 
+</span>
 <style>
 pre code { background-color: black; color: limegreen; padding:20px}
 strong {color: coral}
 em {color: springgreen}
-table {background-color: #1F2F2F}
+table {background-color: #1F1F1F}
 th {color: springgreen}
 tr {color: white}
-div {background-color: #1F2F2F; color:whites; padding:20px}
+body {background-color: #1F1F1F; color:white; padding:20px}
 </style>
 
 <!--
