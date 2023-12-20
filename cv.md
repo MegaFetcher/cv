@@ -6,7 +6,7 @@ https://www.w3schools.com/tags/ref_colornames.asp
 <style>
 strong {color: coral}
 em {color: springgreen}
-pre code {color: lawngreen}
+pre code {color: forestgreen}
 pre {color: red}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
