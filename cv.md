@@ -8,7 +8,7 @@ pre code { color: limegreen}
 strong {color: coral}
 em {color: springgreen}
 th {color: springgreen}
-div {background-color: DarkSlateGrey; color:white; padding:20px}
+div {background-color: DarkSlateGrey; padding:20px}
 </style>
 
 # **MegaFetcher**
