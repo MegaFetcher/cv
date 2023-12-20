@@ -4,7 +4,7 @@ https://www.w3schools.com/tags/ref_colornames.asp
 -->
 
 <style>
-pre code { color: limegreen}
+pre code { background-color: black; color: limegreen; padding:20px}
 strong {color: coral}
 em {color: springgreen}
 th {color: springgreen}
