@@ -6,9 +6,10 @@ https://www.w3schools.com/tags/ref_colornames.asp
 <style>
 strong {color: coral}
 em {color: springgreen}
+blockquote {color: white}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
-div {background-color: #3F3F3F; padding:20px}
+div {background-color: #3F3F3F; color: white; padding:20px}
 </style>
 
 # **MegaFetcher**
