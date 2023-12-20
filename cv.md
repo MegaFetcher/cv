@@ -16,13 +16,13 @@ blockquote {color: white}
 
 # **MegaFetcher**
 
-Email: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
-Discord: **megafetcher**  
-Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
+- _Email_: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
+- _Discord_: **megafetcher**  
+- _Languages_: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
 ## Vision
 
-#### developing convenient/comfortable app interfaces - web and mobile
+- _developing_ convenient/comfortable app interfaces - web and mobile
 
 ## Tech. Stack
 
