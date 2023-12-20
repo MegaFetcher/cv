@@ -26,7 +26,7 @@ Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
 - _Langiuages/Frameworks_:
   VBA, Java, Java-Script, Type-Script, SQL, HTML, CSS, XML/XSD, JSON, YAML, OPEN API, Angular, React.JS, Open API, Pascal, Assembler  
-- _Tools_: IntelliJ IDEA, Visual Studio Code, Node.js, NPM, Redis, Apache Cassandra, PostgreSQL, Postman, FIGMA, Jira/Confluence/Bitbacket, Azure Cloud, Azure DevOps, Lucid Chart  
+- _Tools_: IntelliJ IDEA, Visual Studio Code, Node.js, NPM, Redis, Apache Cassandra, PostgreSQL, Postman, FIGMA, Jira/Confluence/Bitbacket, Azure Cloud, Azure DevOps, Lucid Chart, Enterprise Architect  
 - _Methodologies_: SAFe, Scrum, Kanban
 
 ## Code example
