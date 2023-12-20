@@ -33,8 +33,12 @@ Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 - _Methodologies_: SAFe, Scrum, Kanban
 
 ## Education
-1998 - 2000 Oklahoma State University, USA - FIN/MIS - okstate.edu  
-1993 - 1997 Tomsk Polytechnic University, RUSSIAN FEDERATION - MGMT - tpu.ru  
+1998 - 2000
+![OSU](https://megafetcher.github.io/rsschool-cv/src/osu.png) 
+Oklahoma State University, USA - FIN/MIS - okstate.edu  
+1993 - 1997
+![TPU](https://megafetcher.github.io/rsschool-cv/src/tpu.png) 
+Tomsk Polytechnic University, RUSSIAN FEDERATION - MGMT - tpu.ru  
 
 ## Educational Programs
 
