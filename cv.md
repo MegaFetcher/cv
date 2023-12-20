@@ -1,17 +1,3 @@
-<!--
-[RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
-https://www.w3schools.com/tags/ref_colornames.asp
--->
-
-<style>
-pre code { background-color: black; color: limegreen; padding:20px}
-strong {color: coral}
-em {color: springgreen}
-th {color: springgreen}
-tr {color: black}
-div {background-color: DarkSlateGrey; color:white ; padding:20px}
-</style>
-
 # **MegaFetcher**
 
 Email: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
@@ -100,3 +86,17 @@ function sendRequestsSequentially (array_1, counter_1) {
 ## Hobbies
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
 
+<style>
+pre code { background-color: black; color: limegreen; padding:20px}
+strong {color: coral}
+em {color: springgreen}
+table {background-color: #1F2F2F}
+th {color: springgreen}
+tr {color: white}
+div {background-color: #1F2F2F; color:whites; padding:20px}
+</style>
+
+<!--
+[RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
+https://www.w3schools.com/tags/ref_colornames.asp
+-->
