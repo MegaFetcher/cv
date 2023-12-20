@@ -7,9 +7,9 @@ https://www.w3schools.com/tags/ref_colornames.asp
 pre code {background-color: #1F1F1F; color: limegreen; border: 0px; padding:30px}
 strong {color: coral}
 em {color: springgreen}
-th {background-color: #1F1F1F; color: springgreen}
-td {background-color: #1F1F1F; color: white}
-section {background-color: #1F1F1F; color: white; padding:20px}
+th {background-color: #2F2F2F; color: springgreen}
+td {background-color: #2F2F2F; color: white}
+section {background-color: #2F2F2F; color: white; padding:20px}
 </style>
 
 # **MegaFetcher**
