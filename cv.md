@@ -4,13 +4,13 @@ https://www.w3schools.com/tags/ref_colornames.asp
 -->
 
 <style>
-pre code { background-color: black; color: limegreen; padding:20px}
+pre code{background-color: black; color: limegreen; padding:30px}
 strong {color: coral}
 em {color: springgreen}
 table {background-color: #1F1F1F}
 th {color: springgreen}
 tr {color: white}
-body {background-color: #1F1F1F; color:white; padding:20px}
+div {background-color: #1F1F1F; color:white; padding:20px}
 </style>
 
 # **MegaFetcher**
