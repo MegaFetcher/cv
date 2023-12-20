@@ -13,8 +13,6 @@ div {background-color: DarkSlateGrey; color:white; padding:20px}
 
 # **MegaFetcher**
 
-<div>
-
 Email: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
 Discord: **megafetcher**  
 Languages: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
@@ -101,4 +99,3 @@ function sendRequestsSequentially (array_1, counter_1) {
 ## Hobbies
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
 
-</div>
