@@ -10,7 +10,7 @@ em {color: springgreen}
 pre code {color: mediumseagreen}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
-div {background-color: #5F5F5F; color: white; padding:50px}
+div {background-color: #4F4F4F; color: white; padding:50px}
 blockquote {color: white}
 </style>
 
