@@ -9,7 +9,7 @@ strong {color: coral}
 em {color: springgreen}
 table {background-color: #1F1F1F}
 th {background-color: #1F1F1F; color: springgreen}
-tr {background-color: #1F1F1F; color: white}
+td {background-color: #1F1F1F; color: white}
 div {background-color: #1F1F1F; color:white; padding:20px}
 </style>
 
