@@ -5,7 +5,7 @@ https://www.w3schools.com/tags/ref_colornames.asp
 
 <style>
 pre code {background-color: #1F1F1F; color: limegreen; border: 0px; padding:10px}
-code {background-color: #1F1F1F; color: limegreen; border: 0px; padding:10px}
+pre {background-color: #1F1F1F; color: limegreen; border: 0px; padding:10px}
 strong {color: coral}
 em {color: springgreen}
 th {background-color: #2F2F2F; color: springgreen}
