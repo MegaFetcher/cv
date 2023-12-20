@@ -1,12 +1,13 @@
 <style>
 pre code { color: limegreen}
-strong {color: indigo}
+strong {color: darkorchid}
 em {color: limegreen}
 th {color: limegreen}
 </style>
 
 <!--
 [RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
+https://www.w3schools.com/tags/ref_colornames.asp
 -->
 
 # **MegaFetcher**
