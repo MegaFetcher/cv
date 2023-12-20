@@ -10,9 +10,9 @@ em {color: springgreen}
 th {color: springgreen}
 </style>
 
-
-
 # **MegaFetcher**
+
+<div style="background-color:DarkSlateGrey; color:white; padding:20px;">
 
 Email: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
 Discord: **megafetcher**  
@@ -99,3 +99,6 @@ function sendRequestsSequentially (array_1, counter_1) {
 
 ## Hobbies
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
+
+
+</div>
