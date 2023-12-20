@@ -5,9 +5,9 @@ https://www.w3schools.com/tags/ref_colornames.asp
 
 <style>
 pre code { color: limegreen}
-strong {color: darkorchid}
-em {color: limegreen}
-th {color: limegreen}
+strong {color: coral}
+em {color: springgreen}
+th {color: springgreen}
 </style>
 
 
