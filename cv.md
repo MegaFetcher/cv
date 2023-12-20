@@ -7,8 +7,7 @@ https://www.w3schools.com/tags/ref_colornames.asp
 a {color: deepskyblue}
 strong {color: coral}
 em {color: springgreen}
-pre code {color: forestgreen}
-pre {color: red}
+pre code {color: mediumseagreen}
 th {background-color: #2F2F2F; color: springgreen}
 td {background-color: #2F2F2F; color: white}
 div {background-color: #5F5F5F; color: white; padding:50px}
