@@ -86,7 +86,7 @@ function sendRequestsSequentially (array_1, counter_1) {
 ## Professional Experience
 
  | Tenure      | Domain    | Position      |
- |-            |-          |-              |
+ |:-           |:-:        |:-:            |
  | 2019 - curr.| IT        | BA            |
  | 2018 - 2019 | IT        | BA            |
  | 2017 - 2018 | AUDIT     | Auditor       |
