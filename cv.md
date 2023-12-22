@@ -68,7 +68,7 @@ blockquote {color: white}
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
 
 
-## Code Example
+## Code Example 👽
 
 ``` //javascript
 let counter_1 = 0           // counter of the requests
