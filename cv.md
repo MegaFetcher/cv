@@ -15,7 +15,7 @@ div {background-color: #404040; color: white; padding:50px}
 blockquote {color: white}
 </style>
 
-# **MegaFetcher**
+# **MegaFetcher** 🗿
 
 - _Email_: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
 - _Discord_: **megafetcher**  
