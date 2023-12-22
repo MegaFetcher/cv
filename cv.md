@@ -14,7 +14,7 @@ td {background-color: #2F2F2F; color: white}
 div {background-color: #404040; color: white; padding:50px}
 blockquote {color: white}
 </style>
-
+🇲🇪 🇷🇸 🇷🇺
 # **MegaFetcher** 🗿
 
 - _Email_: [my_certification_mfsft@outlook.com](mailto:my_certification_mfsft@outlook.com)  
