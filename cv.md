@@ -21,18 +21,18 @@ blockquote {color: white}
 - _Discord_: **megafetcher**  
 - _Languages_: Russian - _native_, Serbian /_B1_, English /_C1_, German /_B2_
 
-## Vision
+## Vision 🙈🙉🙊
 
 - _Developing_ convenient/comfortable app interfaces - web and mobile
 
-## Tech. Stack
+## Tech. Stack 🚀
 
 - _Langiuages/Frameworks_:
   VBA, Java, Java-Script, Type-Script, SQL, HTML, CSS, XML/XSD, JSON, YAML, OPEN API, Angular, React.JS, Open API, Pascal, Assembler  
 - _Tools_: IntelliJ IDEA, Visual Studio Code, Node.js, NPM, Redis, Apache Cassandra, PostgreSQL, Postman, FIGMA, Jira/Confluence/Bitbacket, GitHub, GitLab, Azure Cloud, Azure DevOps, Lucid Chart, Enterprise Architect  
 - _Methodologies_: SAFe, Scrum, Kanban
 
-## Education
+## Education 🎓
 
 1998 - 2000
 ![OSU](https://megafetcher.github.io/rsschool-cv/src/osu.jpg) 
@@ -41,7 +41,7 @@ blockquote {color: white}
 ![TPU](https://megafetcher.github.io/rsschool-cv/src/tpu.jpg) 
 [Tomsk Polytechnic University](https://www.tpu.ru), RUSSIAN FEDERATION - MGMT
 
-## Educational Programs
+## Educational Programs 🚀
 
 10/2023 - Scope Change Management - Best Practices  
 07/2023 - Azure Fundamentals of Microsoft  
@@ -53,7 +53,7 @@ blockquote {color: white}
 11/2001 - Private Equity Management of EVCI  
 
 
-## Professional Experience
+## Professional Experience 💻
 
  | Tenure      | Domain    | Position      |
  |:-           |:-:        |:-:            |
@@ -64,7 +64,7 @@ blockquote {color: white}
  | 2011 - 2013 | BANKING   | Specialist    |  
  | 2008 - 2010 | CORP FIN  | Manager       |  
 
-## Hobbies
+## Hobbies ⚜
 ![Swimming](https://megafetcher.github.io/rsschool-cv/src/Evening_Swim.jpg)
 
 
