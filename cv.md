@@ -1,6 +1,7 @@
 <!--
 [RS-SCHOOL](https://megafetcher.github.io/rsschool-cv/)
 https://www.w3schools.com/tags/ref_colornames.asp
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 -->
 
 <style>
